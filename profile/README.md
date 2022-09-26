@@ -1,6 +1,6 @@
 # Hello world, from the Dyno Protocol 👋
 
-[Dyno Protocol](https://dynoprotocol.com) is building secure 🔐 and rewards based 🤫 blockchain. Visit the [Testnet](https://testnet.dynoscan.io/) 💫 which allows all holders to earn a reward on all transaction fees. 🆔
+[Dyno Protocol](https://dynochain.io) is building secure 🔐 and rewards based 🤫 blockchain. Visit the [Testnet](https://testnet.dynoscan.io/) 💫 which allows all holders to earn a reward on all transaction fees. 🆔
 
 
 ![Reggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=blockchainreg&show_icons=true&theme=radical)
